@@ -1,0 +1,49 @@
+
+.InfoBox{
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px;
+}
+
+input {
+    width: 95%;
+    border: 3px solid #BBE9FF;
+    padding: 15px;
+}
+
+.pagination {
+    margin-top: 20px;
+    justify-content: center;
+  }
+  
+  .pagination button {
+    background-color: #FF6969;
+    color: white;
+    width: 100px;
+    border: none;
+    padding: 8px 16px;
+    margin: 0 4px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .pagination button:hover {
+    background-color: #FFF5E1;
+    transition: all linear .3s;
+    color: #000000;
+  }
+  
+.header{
+  background-color: #FF6969;
+  padding: 20px;
+}
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #FF6969;
+    color: white;
+  }
+  footer a{
+    color: #B1AFFF;
+    text-decoration: none;
+  }
